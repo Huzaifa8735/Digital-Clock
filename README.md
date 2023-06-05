@@ -1,7 +1,7 @@
 Digital-Clock
 This is a simple digital clock project. It displays the current time in a digital format, including hours, minutes, and seconds.
 
-Features
+Features:
 Shows the current time with hours, minutes, and seconds.
 Updates the time in real-time.
 Customizable display format.
